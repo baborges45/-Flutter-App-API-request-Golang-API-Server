@@ -9,5 +9,5 @@ This project is a starting point for a Flutter application frontend with Golang 
 The idea was to create an API in Golang, with a simple product list, and then retrieve this data in a Flutter app. The end result was very satisfying and fun.
 
 <p align="center">
-   <img width="900" height="300" src="web/GolangFlutter.gif">
+   <img width="500" height="800" src="web/GolangFlutter.gif">
 </p>
